@@ -19,10 +19,6 @@ By feeding a portion of the output back to the negative input, we trade gain for
     * **Buffer (Unity Gain):** Used for impedance matching.
 
 
-
-[Image of inverting and non-inverting Op-Amp configurations]
-
-
 ## 3. Active Filters
 Using capacitors and resistors with Op-Amps allows us to create filters that don't just "clean" signals but also amplify them.
 * **Low-Pass Filters:** Passing DC and low frequencies while blocking high-frequency noise.
